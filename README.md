@@ -2,7 +2,7 @@
 
 Показывает мощность с Ophir Nova на компьютере, рисует график и пишет CSV для Origin. Arduino Nano измеряет напряжение аналогового выхода Nova, страница в браузере пересчитывает его в мощность.
 
-Открыть логгер: https://…github.io/nova-logger/
+Открыть логгер: https://alekseigrachev2002-maker.github.io/nova-logger/
 
 ## Состав
 
